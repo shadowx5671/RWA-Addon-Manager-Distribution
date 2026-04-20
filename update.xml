@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.3.0.0</version>
-    <url>https://github.com/shadowx5671/RWA-Addon-Manager-Distribution/releases/download/v1.0.1/Setup.exe</url>
+    <version>2.3.0.1</version>
+    <url>https://github.com/shadowx5671/RWA-Addon-Manager-Distribution/releases/download/MainRelease/RWA.AM.Setup.2.3.0.0.exe</url>
     <changelog>https://github.com/shadowx5671/RWA-Addon-Manager-Distribution/releases</changelog>
     <mandatory>false</mandatory>
 </item>
