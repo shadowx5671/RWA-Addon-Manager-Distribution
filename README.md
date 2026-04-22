@@ -1,1 +1,1 @@
-# RWA-Addon-Manager-Distribution
+# RWA-Addon-Manager
