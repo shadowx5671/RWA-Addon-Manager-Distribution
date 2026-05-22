@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.4.2</version>
-    <url>https://github.com/shadowx5671/RWA-Addon-Manager-Distribution/releases/download/v2.4.2/RWA.AM.Setup.2.4.2.exe</url>
+    <version>2.4.3</version>
+    <url>https://github.com/shadowx5671/RWA-Addon-Manager-Distribution/releases/download/v2.4.3/RWA.AM.Setup.2.4.3.exe</url>
     <changelog>https://railworks-austria.at/Dev/Changelogs/?projectID=11</changelog>
     <mandatory>false</mandatory>
 </item>
