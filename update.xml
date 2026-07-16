@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.0.2</version>
-    <url>https://github.com/shadowx5671/RWA-Addon-Manager-Distribution/releases/download/v3.0.2/Windows_RAM_Setup_3.0.2.exe</url>
+    <version>3.0.3</version>
+    <url>https://github.com/shadowx5671/RWA-Addon-Manager-Distribution/releases/download/v3.0.3/Windows_RAM_Setup_3.0.3.exe</url>
     <changelog>https://railworks-austria.at/Dev/Changelogs/?projectID=11</changelog>
     <mandatory>false</mandatory>
 </item>
